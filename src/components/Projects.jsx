@@ -6,14 +6,14 @@ const projetosData = [
     nome: "Meu Portfólio",
     imagem: ImgProj,
     linguagens: ["HTML","CSS","JS"],
-    repositorio: "#"
+    repositorio: "https://github.com/socorrolima1778-spec/meu-portfolio"
   },
   {
     id: 2,
     nome: "Meu Portfólio React",
     imagem: ImgProj,
     linguagens: ["JavaScript", "React", "VITE"],
-    repositorio: "#"
+    repositorio: "https://github.com/socorrolima1778-spec/meu-portfolio-react"
   }
 ];
 
